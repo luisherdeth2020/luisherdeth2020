@@ -2,9 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Hi👋+I'm+Luis+Herdeth;Web+Developer👨‍💻)](https://git.io/typing-svg)
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisherdeth2020&show_icons=true&count_private=true&hide_border=true&title_color=efbf2e&icon_color=efbf2e&text_color=c9d1d9&bg_color=0d1117" alt="Luis Herdeth github stats" /> 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisherdeth2020&layout=compact&hide_border=true&title_color=efbf2e&text_color=efbf2a&bg_color=0d1117" />
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luisherdeth2020&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+  
 </div>
 
 <div align="center"> 
